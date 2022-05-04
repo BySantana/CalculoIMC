@@ -1,0 +1,11 @@
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\bin\Debug\Aula71-Imc.exe.config
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\bin\Debug\Aula71-Imc.exe
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\bin\Debug\Aula71-Imc.pdb
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71-Imc.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71-Imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71_Imc.Form1.resources
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71_Imc.Properties.Resources.resources
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71-Imc.csproj.GenerateResource.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71-Imc.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71-Imc.exe
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula71-Imc\obj\Debug\Aula71-Imc.pdb
